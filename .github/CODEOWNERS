@@ -1,0 +1,8 @@
+# Require @MrRincon, @Mi1kDev to approve any PR that touches any file
+* @MrRincon
+
+# Protecting specific files
+README.md @MrRincon
+.gitignore @MrRincon
+LICENSE @MrRincon
+.github/CODEOWNERS @MrRincon
