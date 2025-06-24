@@ -13,11 +13,11 @@ Khorasani, V. (2024) 'Bank Transaction Dataset for Fraud Detection'. Available a
 
 ---
 ## Problem Solved
-The project addresses the challenge of extracting meaningfull insights and prediction power from complex datasets by applying machine learning techniques. Specifically, it solves the problem of developing reliable models to categorise or predict outcomes based on input data, which is crucial in a variety of fields like healthcare, finance, and marketing. By following a structured pipeline from data preprocessing to model evaluation, this work demonstrates how to overcome common obstacles like data quality issues, feature selection, and model tuning to achive reliable predictions. As a result, the project serves as a tangible demonstration of how machine learning can turn raw data into usable information.
+The clustering model addresses the challenge of detecting financial fraud in unlabelled transaction data using unsupervised learning. By Applying PCA for dimensionality reduction and K-Means clustering to group behavioural patterns. The model identifies outliers (transactions far from the cluster centroids), as potential fraud. Feature scaling, TTB ratios, and cluster evaluation metrics like the elbow method and silhouette scores enhance accuracy and efficiency in spotting anomalies.
 
 ---
 ## Motivation
-This project was chosen to deepen practical understanding of machine learning concepts through hands-on application on real-world datasets. The objective was to combine theoretical knowledge from coursework with practical skills in data preparation, exploratory analysis, model training, and performance evaluation. By working on this project, we aimed to develop the ability to critically analyse data, choose appropriate models, and effectively interpret outcomes. This approach enhances our ability to use machine learning workflows that are essential for solving complex problems in data science and artificial intelligence fields.
+The motivation behind this project is to address the challenge of financial fraud due to the large volumes of unlabelled transaction data, where traditional detection methods fall short.
 
 ---
 ## Requirements
