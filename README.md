@@ -17,7 +17,7 @@ Khorasani, V. (2024) 'Bank Transaction Dataset for Fraud Detection'. Available a
 
 ---
 ## Motivation
-
+This project was chosen to deepen practila understanding of machine learning concepts through hands-on application on real-world datasets. The objective was to combine theoretical knowledge from coursework with practical skills in data preparation, exploratory analysis, model training, and performance evaluation. By working on this project, we aimed to develop th ability to critically analyse data, choose appropriate models, and effectively interpret outcomes. This approach enhances our ability to use machine learning workflows that are essential for solving complex problems in data science and artificial intelligence fields.
 
 ---
 ## Requirements
