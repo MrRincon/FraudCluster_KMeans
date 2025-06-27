@@ -13,20 +13,21 @@ Khorasani, V. (2024) 'Bank Transaction Dataset for Fraud Detection'. Available a
 
 ---
 ## Problem Solved
-
+The clustering model addresses the challenge of detecting financial fraud in unlabelled transaction data using unsupervised learning. By Applying PCA for dimensionality reduction and K-Means clustering to group behavioural patterns. The model identifies outliers (transactions far from the cluster centroids), as potential fraud. Feature scaling, TTB ratios, and cluster evaluation metrics like the elbow method and silhouette scores enhance accuracy and efficiency in spotting anomalies.
 
 ---
 ## Motivation
-
+The motivation behind this project is to address the challenge of financial fraud due to the large volumes of unlabelled transaction data, where traditional detection methods fall short.
 
 ---
 ## Requirements
   ### Jupyter Setup
-    - Install Anaconda (Python 3.11+ recommended)
-    - Launch JupyterLab via Anaconda Navigator
-    - Use a Python 3 kernel in JupyterLab
+    - Install Anaconda (Python 3.11+ recommended).
+    - Launch JupyterLab via Anaconda Navigator.
+    - Use a Python 3 kernel in JupyterLab.
   ### Colab Setup
-    
+    - Add the project in a folder, include also the dataset into it.
+    - Mount the drive on the notebook at the beginning.
   ### Project Setup Instructions
     - Clone the repository and create a folder called 'dataset' in the root directory.
     - Download the dataset from Kaggle and place the .csv file in the dataset folder.
@@ -39,6 +40,15 @@ Khorasani, V. (2024) 'Bank Transaction Dataset for Fraud Detection'. Available a
 5. Requirements
   - Jupyter Setup
   - Colab Setup
+  - Project Setup Instructions
 6. Notebook Structure
-
+  - Dataset Selection and Problem Definition
+  - Data Preprocessing 
+    - Feature Selection and Augmentation
+  - Exploratory Data Analysis
+  - Model Development and Evaluation 
+    - K-Means for Fraud Detection
+    - Outlier Identification
+    - Analyse Clusters
+  - Ethical Considerations
 
