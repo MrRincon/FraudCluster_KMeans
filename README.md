@@ -22,11 +22,12 @@ The motivation behind this project is to address the challenge of financial frau
 ---
 ## Requirements
   ### Jupyter Setup
-    - Install Anaconda (Python 3.11+ recommended)
-    - Launch JupyterLab via Anaconda Navigator
-    - Use a Python 3 kernel in JupyterLab
+    - Install Anaconda (Python 3.11+ recommended).
+    - Launch JupyterLab via Anaconda Navigator.
+    - Use a Python 3 kernel in JupyterLab.
   ### Colab Setup
-    
+    - Add the project in a folder, include also the dataset into it.
+    - Mount the drive on the notebook at the beginning.
   ### Project Setup Instructions
     - Clone the repository and create a folder called 'dataset' in the root directory.
     - Download the dataset from Kaggle and place the .csv file in the dataset folder.
@@ -39,6 +40,16 @@ The motivation behind this project is to address the challenge of financial frau
 5. Requirements
   - Jupyter Setup
   - Colab Setup
+  - Project Setup Instructions
 6. Notebook Structure
+  - Dataset Selection and Problem Definition
+  - Data Preprocessing 
+    - Feature Selection and Augmentation
+  - Exploratory Data Analysis
+  - Model Development and Evaluation 
+    - K-Means for Fraud Detection
+    - Outlier Identification
+    - Analyse Clusters
+  - Ethical Considerations
 
 
