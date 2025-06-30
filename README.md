@@ -1,11 +1,14 @@
 # FraudCluster_KMeans
 This project is currently being added to Github, It will be available for viewing soon.
+
 ![Status](https://img.shields.io/badge/RepoStatus-Public-green)
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![License](https://img.shields.io/github/license/MrRincon/FraudCluster_KMeans)
 ![Owner](https://img.shields.io/badge/Alam-Rincon-orange)
 ![Owner](https://img.shields.io/badge/Petar-Atanasov-orange)
 ![Owner](https://img.shields.io/badge/Teon-Morgan-orange)
+
+This project focuses on developing a model to detect financial fraud in unlabelled transaction data to showcase skills related to machine learning workflows and ethics. The goal is to separate the unusual and suspicious transactions from the group of common or normal transaction, contributing towards secured transactional procedures and fraud analysis.
 
 ---
 ## Dataset Reference
