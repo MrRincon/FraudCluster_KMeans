@@ -32,7 +32,7 @@ The motivation behind this project is to address the challenge of financial frau
     - Add the project in a folder, include also the dataset into it.
     - Mount the drive on the notebook at the beginning.
   ### Project Setup Instructions
-    - Clone the repository and create a folder called 'dataset' in the root directory.
+    - Clone the repository and create a folder called 'datasets' in the root directory.
     - Download the dataset from Kaggle and place the .csv file in the dataset folder.
 
 ## Table of Contents
